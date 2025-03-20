@@ -1,8 +1,0 @@
-google.com:
-Some steps on the way to Google timed out. This might mean those steps were busy or had a "do not disturb" sign up. But overall, the connection still got through.
-
-8.8.8.8:
-The trace route to 8.8.8.8 (Google's public DNS server) has a timeout at hop 3. After that, the rest of the route appears relatively smooth and fast. This suggests that there might have been a brief hiccup early in the network path, but the overall connection is efficient.
-
-example.com:
-This trace route has the most timeouts, occurring at hops 3, 4, 6, 7, 9, 10, 13, 14, and 15. These numerous timeouts indicate potential problems or congestion at multiple points along the network path. Additionally, the trace route shows significant increases in latency. The delay at hop 8 jumps to 78ms, which is much higher than the preceding hops. Hops 11, 12, and 16 also exhibit high latency.
